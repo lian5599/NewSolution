@@ -1,0 +1,86 @@
+E:\TEST\HslCommunicationTst\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+E:\TEST\HslCommunicationTst\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+E:\TEST\HslCommunicationTst\Communication\bin\Debug\Communication.dll
+E:\TEST\HslCommunicationTst\Communication\bin\Debug\Communication.pdb
+E:\TEST\HslCommunicationTst\Communication\bin\Debug\Newtonsoft.Json.dll
+E:\TEST\HslCommunicationTst\Communication\bin\Debug\Newtonsoft.Json.xml
+E:\TEST\HslCommunicationTst\Communication\obj\Debug\Communication.csproj.CopyComplete
+E:\TEST\HslCommunicationTst\Communication\obj\Debug\Communication.dll
+E:\TEST\HslCommunicationTst\Communication\obj\Debug\Communication.pdb
+E:\TEST\HslCommunicationTst\Communication\bin\Debug\Helper.dll
+E:\TEST\HslCommunicationTst\Communication\bin\Debug\Helper.pdb
+D:\new project\HslCommunicationTst\Communication\bin\Debug\log4net.config
+D:\new project\HslCommunicationTst\Communication\bin\Debug\Communication.dll
+D:\new project\HslCommunicationTst\Communication\bin\Debug\Communication.pdb
+D:\new project\HslCommunicationTst\Communication\bin\Debug\Helper.dll
+D:\new project\HslCommunicationTst\Communication\bin\Debug\Newtonsoft.Json.dll
+D:\new project\HslCommunicationTst\Communication\bin\Debug\log4net.dll
+D:\new project\HslCommunicationTst\Communication\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\new project\HslCommunicationTst\Communication\bin\Debug\Helper.pdb
+D:\new project\HslCommunicationTst\Communication\bin\Debug\Newtonsoft.Json.xml
+D:\new project\HslCommunicationTst\Communication\bin\Debug\log4net.xml
+D:\new project\HslCommunicationTst\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+D:\new project\HslCommunicationTst\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+D:\new project\HslCommunicationTst\Communication\obj\Debug\Communication.csproj.CopyComplete
+D:\new project\HslCommunicationTst\Communication\obj\Debug\Communication.dll
+D:\new project\HslCommunicationTst\Communication\obj\Debug\Communication.pdb
+D:\new project\NewSolution\Communication\bin\Debug\log4net.config
+D:\new project\NewSolution\Communication\bin\Debug\Communication.dll
+D:\new project\NewSolution\Communication\bin\Debug\Communication.pdb
+D:\new project\NewSolution\Communication\bin\Debug\Helper.dll
+D:\new project\NewSolution\Communication\bin\Debug\Newtonsoft.Json.dll
+D:\new project\NewSolution\Communication\bin\Debug\log4net.dll
+D:\new project\NewSolution\Communication\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\new project\NewSolution\Communication\bin\Debug\Helper.pdb
+D:\new project\NewSolution\Communication\bin\Debug\Newtonsoft.Json.xml
+D:\new project\NewSolution\Communication\bin\Debug\log4net.xml
+D:\new project\NewSolution\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+D:\new project\NewSolution\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+D:\new project\NewSolution\Communication\obj\Debug\Communication.csproj.CopyComplete
+D:\new project\NewSolution\Communication\obj\Debug\Communication.dll
+D:\new project\NewSolution\Communication\obj\Debug\Communication.pdb
+D:\lzy\NewSolution\Communication\bin\Debug\log4net.config
+D:\lzy\NewSolution\Communication\bin\Debug\Communication.dll
+D:\lzy\NewSolution\Communication\bin\Debug\Communication.pdb
+D:\lzy\NewSolution\Communication\bin\Debug\Helper.dll
+D:\lzy\NewSolution\Communication\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution\Communication\bin\Debug\log4net.dll
+D:\lzy\NewSolution\Communication\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution\Communication\bin\Debug\Helper.pdb
+D:\lzy\NewSolution\Communication\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution\Communication\bin\Debug\log4net.xml
+D:\lzy\NewSolution\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+D:\lzy\NewSolution\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution\Communication\obj\Debug\Communication.csproj.CopyComplete
+D:\lzy\NewSolution\Communication\obj\Debug\Communication.dll
+D:\lzy\NewSolution\Communication\obj\Debug\Communication.pdb
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\log4net.config
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\Communication.dll
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\Communication.pdb
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\Helper.dll
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\log4net.dll
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\Helper.pdb
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_LangFang\Communication\bin\Debug\log4net.xml
+D:\lzy\NewSolution_LangFang\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+D:\lzy\NewSolution_LangFang\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_LangFang\Communication\obj\Debug\Communication.csproj.CopyComplete
+D:\lzy\NewSolution_LangFang\Communication\obj\Debug\Communication.dll
+D:\lzy\NewSolution_LangFang\Communication\obj\Debug\Communication.pdb
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\log4net.config
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\Communication.dll
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\Communication.pdb
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\Helper.dll
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\log4net.dll
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\Helper.pdb
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_AddVisionTest\Communication\bin\Debug\log4net.xml
+D:\lzy\NewSolution_AddVisionTest\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+D:\lzy\NewSolution_AddVisionTest\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_AddVisionTest\Communication\obj\Debug\Communication.csproj.CopyComplete
+D:\lzy\NewSolution_AddVisionTest\Communication\obj\Debug\Communication.dll
+D:\lzy\NewSolution_AddVisionTest\Communication\obj\Debug\Communication.pdb

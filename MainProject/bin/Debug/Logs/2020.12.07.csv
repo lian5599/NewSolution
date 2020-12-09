@@ -1,0 +1,173 @@
+2020-12-07 13:45:16.864,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 13:46:59.658,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 13:50:07.890,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 13:50:33.972,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 13:51:12.289,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 13:52:19.997,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 13:54:59.334,INFO,左屏条码:123  
+2020-12-07 13:55:16.585,INFO,左框条码:ABC  
+2020-12-07 13:55:38.656,ERROR,MesEnd2失败：参数不匹配 System.Exception: 参数不匹配
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 83
+ 
+2020-12-07 13:55:59.510,ERROR,MesEnd2失败：参数不匹配 System.Exception: 参数不匹配
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 83
+ 
+2020-12-07 13:56:12.116,ERROR,MesEnd2失败：参数不匹配 System.Exception: 参数不匹配
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 83
+ 
+2020-12-07 13:57:23.002,ERROR,MesEnd2失败：参数不匹配 System.Exception: 参数不匹配
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 83
+ 
+2020-12-07 13:58:57.257,ERROR,MesEnd2失败：参数不匹配 System.Exception: 参数不匹配
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 83
+ 
+2020-12-07 13:59:51.435,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 14:00:28.000,INFO,左屏条码:123  
+2020-12-07 14:00:29.279,INFO,左框条码:ABC  
+2020-12-07 14:01:02.903,DEBUG,Mes服务器回复=>错误码：4098；错误信息：  
+2020-12-07 14:01:02.924,ERROR,MesEnd 调用错误=>返回值:4098
+错误详情请咨询Mes服务器人员  
+2020-12-07 14:02:27.297,DEBUG,Mes服务器回复=>错误码：4098；错误信息：  
+2020-12-07 14:02:27.440,ERROR,MesEnd 调用错误=>返回值:4098
+错误详情请咨询Mes服务器人员  
+2020-12-07 14:03:43.428,DEBUG,Mes服务器回复=>错误码：4098；错误信息：  
+2020-12-07 14:03:43.430,ERROR,MesEnd 调用错误=>返回值:4098
+错误详情请咨询Mes服务器人员  
+2020-12-07 14:04:16.396,DEBUG,Mes服务器回复=>错误码：4098；错误信息：  
+2020-12-07 14:04:16.423,ERROR,MesEnd 调用错误=>返回值:4098
+错误详情请咨询Mes服务器人员  
+2020-12-07 14:06:14.100,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 14:07:43.880,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 14:11:33.495,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 14:11:59.356,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 14:55:42.255,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 14:56:14.258,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 16:19:42.667,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 16:20:02.372,WARN,流程开始  
+2020-12-07 16:20:40.369,DEBUG,plc Write UInt16 Address:2001; Value:[1]  
+2020-12-07 16:20:40.373,DEBUG,plc Write UInt16 Address:2001; Value:[0]  
+2020-12-07 16:20:42.434,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-07 16:20:42.479,DEBUG,plc Write UInt16 Address:2011; Value:[2]  
+2020-12-07 16:21:03.523,ERROR,参数"1"不存在 System.Exception: 参数"1"不存在
+   在 TKS.Manager.Flow.GetOutput(String key) 位置 D:\lzy\NewSolution\MainProject\Manager\Flow.cs:行号 148
+   在 TKS.FlowChart.Tool.ToolBase.GetInputs(String id) 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\ToolBase.cs:行号 142
+   在 TKS.FlowChart.Tool.PlcReadTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\PlcReadTool.cs:行号 116
+ 
+2020-12-07 16:21:10.627,INFO,plc Read =>1:0;  
+2020-12-07 16:21:20.224,INFO,plc Read =>1:2;  
+2020-12-07 16:23:04.075,DEBUG,plc Write UInt16 Address:2001; Value:[1]  
+2020-12-07 16:23:04.082,DEBUG,plc Write UInt16 Address:2001; Value:[0]  
+2020-12-07 16:23:05.965,INFO,左屏扫码枪扫码成功=>左屏条码:123  
+2020-12-07 16:23:06.013,DEBUG,plc Write UInt16 Address:2011; Value:[1]  
+2020-12-07 16:23:13.939,INFO,plc Read =>1:1;  
+2020-12-07 16:59:56.994,ERROR,端口被关闭。  
+2020-12-07 16:59:57.355,ERROR,plc未连接  
+2020-12-07 16:59:57.875,ERROR,plc未连接  
+2020-12-07 16:59:57.937,WARN,流程停止  
+2020-12-07 17:00:11.501,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-07 17:00:16.260,ERROR,左屏扫码枪扫码超时:2000  
+2020-12-07 17:01:41.305,INFO,左屏扫码枪扫码成功=>左屏条码:Test Symbol  
+2020-12-07 17:01:46.071,ERROR,左屏扫码枪扫码超时:2000  
+2020-12-07 19:48:46.967,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-07 19:50:51.737,INFO,PLC Read =>机故1:0;机故2:0;机故3:0;  
+2020-12-07 19:51:22.988,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-07 19:51:24.382,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-12-07 19:51:45.112,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-12-07 19:51:45.126,ERROR,机故上报出错：操作超时  
+2020-12-07 19:53:25.954,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-12-07 19:53:26.933,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-07 19:54:03.742,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-12-07 19:54:03.747,ERROR,机故上报出错：操作超时  
+2020-12-07 20:07:16.032,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-07 20:07:57.386,ERROR,机故上报失败：无效的 URI: 指定的端口无效。 System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> System.UriFormatException: 无效的 URI: 指定的端口无效。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 System.Uri..ctor(String uriString)
+   在 RestSharp.RestClient..ctor(String baseUrl)
+   在 MesAdapter.MesAdapterBySocketClient.Post(String errorMsg, String dateTime, String& responseContent) 位置 D:\lzy\NewSolution\MesAdapter\LangFang\MesAdapter.cs:行号 360
+   在 MesAdapter.MesAdapterBySocketClient.机故上报(Int32 e1, Int32 e2, Int32 e3) 位置 D:\lzy\NewSolution\MesAdapter\LangFang\MesAdapter.cs:行号 306
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   在 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 85
+ 
+2020-12-07 20:08:49.545,DEBUG,上传数据：{
+  "DeviceNo": "LSJ-001",
+  "AlertDesc": "对位X轴伺服报警",
+  "Datetime": "20201207200849"
+}  
+2020-12-07 20:08:51.885,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-07 20:08:51.888,ERROR,机故上报出错：操作超时  
+2020-12-07 20:11:18.916,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-12-07 20:11:19.977,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-07 20:11:29.205,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-07 20:12:18.989,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-07 20:12:20.143,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-12-07 20:12:21.292,DEBUG,上传数据：{"DeviceNo": "LSJ-001", "AlertDesc": "急停报警", "Datetime": "20201207201221"}  
+2020-12-07 20:12:23.383,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-07 20:12:23.386,ERROR,机故上报出错：操作超时  
+2020-12-07 20:14:05.567,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-12-07 20:14:06.745,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-07 20:14:23.307,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-07 20:14:24.477,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-12-07 20:14:25.901,DEBUG,上传数据：{"DeviceNo": "LSJ-001", "AlertDesc": "急停报警", "Datetime": "20201207201425"}  
+2020-12-07 20:14:28.029,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-07 20:14:28.033,ERROR,机故上报出错：操作超时  
+2020-12-07 20:14:32.697,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-12-07 20:14:33.915,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-07 20:14:45.828,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-07 20:14:46.960,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-12-07 20:14:47.816,DEBUG,上传数据：{"DeviceNo": "LSJ-001", "AlertDesc": "急停报警", "Datetime": "20201207201447"}  
+2020-12-07 20:14:49.904,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-07 20:14:49.908,ERROR,机故上报出错：操作超时  
+2020-12-07 20:14:51.852,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-12-07 20:14:52.879,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-07 20:16:13.454,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-07 20:16:15.377,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-07 20:16:16.504,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-12-07 20:22:17.155,DEBUG,PLC Write UInt16 Address:20000; Value:[4]  
+2020-12-07 20:22:18.207,INFO,PLC Read =>机故1:4;机故2:0;机故3:0;  
+2020-12-07 20:23:07.539,DEBUG,上传数据：{"DeviceNo": "LSJ-001", "AlertDesc": "对位Y轴伺服报警", "Datetime": "20201207202235"}  
+2020-12-07 20:23:11.620,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-07 20:23:11.704,ERROR,机故上报出错：操作超时  

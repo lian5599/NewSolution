@@ -1,0 +1,37 @@
+﻿<flowchart version="3" name="Flow 1" nextnodepos="30 30">
+  <node id="0" RightPort="18" BottomPort="19" LeftPort="20" kind="Start" text="Start" pos="53.8789063 32.234375" />
+  <node id="1" TopPort="21" RightPort="22" BottomPort="23" LeftPort="24" kind="PlcRead" text="左屏扫码标志" pos="9.078125 98.234375" />
+  <node id="2" TopPort="25" RightPort="26" BottomPort="27" LeftPort="28" kind="Scan" text="左屏扫码" pos="26.71875 248.234375" />
+  <node id="3" TopPort="29" RightPort="30" BottomPort="31" LeftPort="32" kind="PlcWrite" text="OK" pos="12.2148438 368.234375" />
+  <node id="4" TopPort="33" RightPort="34" BottomPort="35" LeftPort="36" kind="PlcWrite" text="NG" pos="86.63281 368.234375" />
+  <node id="5" RightPort="37" BottomPort="38" LeftPort="39" kind="Start" text="Start" pos="258.8789 32.234375" />
+  <node id="6" TopPort="40" RightPort="41" BottomPort="42" LeftPort="43" kind="PlcRead" text="左框扫码标志" pos="214.078125 98.234375" />
+  <node id="7" TopPort="44" RightPort="45" BottomPort="46" LeftPort="47" kind="Scan" text="左框扫码" pos="231.71875 178.234375" />
+  <node id="8" TopPort="48" RightPort="49" BottomPort="50" LeftPort="51" kind="Mes" text="MesStart" pos="244.667969 285.234375" />
+  <node id="9" TopPort="52" RightPort="53" BottomPort="54" LeftPort="55" kind="PlcWrite" text="OK" pos="257.214844 368.234375" />
+  <node id="10" TopPort="56" RightPort="57" BottomPort="58" LeftPort="59" kind="PlcWrite" text="NG" pos="396.6328 288.234375" />
+  <node id="11" TopPort="60" RightPort="61" BottomPort="62" LeftPort="63" kind="PlcWrite" text="信号复位" pos="26.71875 168.234375" />
+  <node id="12" TopPort="64" RightPort="65" BottomPort="66" LeftPort="67" kind="PlcWrite" text="信号复位" pos="361.71875 178.234375" />
+  <node id="13" TopPort="68" RightPort="69" BottomPort="70" LeftPort="71" kind="Mes" text="MesEnd" pos="518.3008 265.234375" />
+  <node id="14" RightPort="72" BottomPort="73" LeftPort="74" kind="Start" text="Start" pos="528.8789 32.234375" />
+  <node id="15" TopPort="75" RightPort="76" BottomPort="77" LeftPort="78" kind="PlcRead" text="左绑定" pos="510.539063 108.234375" />
+  <node id="16" TopPort="79" RightPort="80" BottomPort="81" LeftPort="82" kind="PlcWrite" text="信号复位" pos="501.71875 188.234375" />
+  <node id="17" TopPort="83" RightPort="84" BottomPort="85" LeftPort="86" kind="PlcWrite" text="OK" pos="527.214844 368.234375" />
+  <link from="19" to="21" label="" />
+  <link from="27" to="29" label="" />
+  <link from="27" to="33" label="N" />
+  <link from="38" to="40" label="" />
+  <link from="50" to="52" label="" />
+  <link from="49" to="59" label="N" />
+  <link from="23" to="60" label="" />
+  <link from="62" to="25" label="" />
+  <link from="73" to="75" label="" />
+  <link from="77" to="79" label="" />
+  <link from="81" to="68" label="" />
+  <link from="70" to="83" label="" />
+  <link from="42" to="44" label="" />
+  <link from="42" to="64" label="" />
+  <link from="46" to="48" label="" />
+  <link from="46" to="56" label="N" />
+  <link from="69" to="84" label="N" />
+</flowchart>

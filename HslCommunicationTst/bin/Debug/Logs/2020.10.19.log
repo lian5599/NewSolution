@@ -1,0 +1,7 @@
+2020-10-19 16:20:53,219---ERROR---  无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 Communication.SocketServer.ReceiveMessage() 位置 D:\new project\NewSolution\Communication\CommunicationBase\SocketServer.cs:行号 72
+   在 Communication.SocketServer.<Open>b__40_0() 位置 D:\new project\NewSolution\Communication\CommunicationBase\SocketServer.cs:行号 117
+ 

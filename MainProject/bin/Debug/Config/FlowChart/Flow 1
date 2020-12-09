@@ -1,0 +1,8 @@
+﻿<flowchart version="3" name="Flow 1" nextnodepos="30 30">
+  <node id="0" RightPort="4" BottomPort="5" LeftPort="6" kind="Start" text="开始" pos="202.359375 62.234375" />
+  <node id="1" TopPort="7" RightPort="8" BottomPort="9" LeftPort="10" kind="PlcRead" text="读取机故" pos="176.71875 148.234375" />
+  <node id="2" TopPort="11" RightPort="12" BottomPort="13" LeftPort="14" kind="Mes" text="机故上报" pos="184.71875 245.234375" />
+  <node id="3" TopPort="15" RightPort="16" BottomPort="17" LeftPort="18" kind="PlcWrite" text="PlcWrite" pos="123.570313 338.234375" />
+  <link from="5" to="7" label="" />
+  <link from="9" to="11" label="" />
+</flowchart>

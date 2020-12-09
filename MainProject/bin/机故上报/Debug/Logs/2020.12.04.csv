@@ -1,0 +1,25 @@
+2020-12-04 08:57:11.740,INFO,PLC Read =>机故1:0;机故2:0;机故3:0;  
+2020-12-04 08:57:14.002,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-04 08:57:14.927,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-12-04 08:57:17.910,ERROR,请求被中止: 操作超时。 System.Net.WebException: 请求被中止: 操作超时。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-04 08:57:17.927,ERROR,机故上报出错：请求被中止: 操作超时。  
+2020-12-04 09:02:39.582,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-12-04 09:02:57.491,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-12-04 09:02:59.561,ERROR,请求被中止: 操作超时。 System.Net.WebException: 请求被中止: 操作超时。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-04 09:02:59.564,ERROR,机故上报出错：请求被中止: 操作超时。  
+2020-12-04 09:03:30.897,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-12-04 09:03:32.314,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-12-04 09:03:34.670,ERROR,请求被中止: 操作超时。 System.Net.WebException: 请求被中止: 操作超时。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 RestSharp.Http.<ExecuteRequest>g__GetRawResponse|181_1(WebRequest request)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+ 
+2020-12-04 09:03:34.671,ERROR,机故上报出错：请求被中止: 操作超时。  

@@ -1,0 +1,75 @@
+E:\TEST\HslCommunicationTst\Helper\bin\Debug\Helper.dll
+E:\TEST\HslCommunicationTst\Helper\bin\Debug\Helper.pdb
+E:\TEST\HslCommunicationTst\Helper\bin\Debug\Newtonsoft.Json.dll
+E:\TEST\HslCommunicationTst\Helper\bin\Debug\Newtonsoft.Json.xml
+E:\TEST\HslCommunicationTst\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+E:\TEST\HslCommunicationTst\Helper\obj\Debug\Helper.csproj.CopyComplete
+E:\TEST\HslCommunicationTst\Helper\obj\Debug\Helper.dll
+E:\TEST\HslCommunicationTst\Helper\obj\Debug\Helper.pdb
+E:\TEST\HslCommunicationTst\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+D:\new project\HslCommunicationTst\Helper\bin\Debug\log4net.config
+D:\new project\HslCommunicationTst\Helper\bin\Debug\Helper.dll
+D:\new project\HslCommunicationTst\Helper\bin\Debug\Helper.pdb
+D:\new project\HslCommunicationTst\Helper\bin\Debug\log4net.dll
+D:\new project\HslCommunicationTst\Helper\bin\Debug\Newtonsoft.Json.dll
+D:\new project\HslCommunicationTst\Helper\bin\Debug\log4net.xml
+D:\new project\HslCommunicationTst\Helper\bin\Debug\Newtonsoft.Json.xml
+D:\new project\HslCommunicationTst\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\new project\HslCommunicationTst\Helper\obj\Debug\Helper.csproj.CopyComplete
+D:\new project\HslCommunicationTst\Helper\obj\Debug\Helper.dll
+D:\new project\HslCommunicationTst\Helper\obj\Debug\Helper.pdb
+D:\new project\NewSolution\Helper\bin\Debug\log4net.config
+D:\new project\NewSolution\Helper\bin\Debug\Helper.dll
+D:\new project\NewSolution\Helper\bin\Debug\Helper.pdb
+D:\new project\NewSolution\Helper\bin\Debug\log4net.dll
+D:\new project\NewSolution\Helper\bin\Debug\Newtonsoft.Json.dll
+D:\new project\NewSolution\Helper\bin\Debug\log4net.xml
+D:\new project\NewSolution\Helper\bin\Debug\Newtonsoft.Json.xml
+D:\new project\NewSolution\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\new project\NewSolution\Helper\obj\Debug\Helper.csproj.CopyComplete
+D:\new project\NewSolution\Helper\obj\Debug\Helper.dll
+D:\new project\NewSolution\Helper\obj\Debug\Helper.pdb
+D:\lzy\NewSolution\Helper\bin\Debug\log4net.config
+D:\lzy\NewSolution\Helper\bin\Debug\Helper.dll
+D:\lzy\NewSolution\Helper\bin\Debug\Helper.pdb
+D:\lzy\NewSolution\Helper\bin\Debug\log4net.dll
+D:\lzy\NewSolution\Helper\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution\Helper\bin\Debug\log4net.xml
+D:\lzy\NewSolution\Helper\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.csproj.CopyComplete
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.dll
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.pdb
+D:\lzy\NewSolution_LangFang\Helper\bin\Debug\log4net.config
+D:\lzy\NewSolution_LangFang\Helper\bin\Debug\Helper.dll
+D:\lzy\NewSolution_LangFang\Helper\bin\Debug\Helper.pdb
+D:\lzy\NewSolution_LangFang\Helper\bin\Debug\log4net.dll
+D:\lzy\NewSolution_LangFang\Helper\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_LangFang\Helper\bin\Debug\log4net.xml
+D:\lzy\NewSolution_LangFang\Helper\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_LangFang\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_LangFang\Helper\obj\Debug\Helper.csproj.CopyComplete
+D:\lzy\NewSolution_LangFang\Helper\obj\Debug\Helper.dll
+D:\lzy\NewSolution_LangFang\Helper\obj\Debug\Helper.pdb
+D:\lzy\NewSolution_LangFang\Helper\obj\Debug\Helper.FormRegister.resources
+D:\lzy\NewSolution_LangFang\Helper\obj\Debug\Helper.csproj.GenerateResource.cache
+D:\lzy\NewSolution_LangFang\Helper\obj\Debug\Helper.LicenseCreaterForm.resources
+D:\lzy\NewSolution_AddVisionTest\Helper\bin\Debug\log4net.config
+D:\lzy\NewSolution_AddVisionTest\Helper\bin\Debug\Helper.dll
+D:\lzy\NewSolution_AddVisionTest\Helper\bin\Debug\Helper.pdb
+D:\lzy\NewSolution_AddVisionTest\Helper\bin\Debug\log4net.dll
+D:\lzy\NewSolution_AddVisionTest\Helper\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_AddVisionTest\Helper\bin\Debug\log4net.xml
+D:\lzy\NewSolution_AddVisionTest\Helper\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.FormRegister.resources
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.LicenseCreaterForm.resources
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.csproj.GenerateResource.cache
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.csproj.CopyComplete
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.dll
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.pdb
+D:\lzy\NewSolution_AddVisionTest\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.FormRegister.resources
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.LicenseCreaterForm.resources
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.csproj.GenerateResource.cache
+D:\lzy\NewSolution\Helper\obj\Debug\Helper.csprojAssemblyReference.cache

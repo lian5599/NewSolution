@@ -1,0 +1,389 @@
+2020-12-06 12:04:23.497,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 12:19:05.013,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 13:59:36.411,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 14:22:08.795,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 15:09:59.583,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 15:14:32.599,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 15:15:15.407,INFO,plc Read =>1:0;  
+2020-12-06 15:15:58.292,INFO,plc Read =>1:3370;  
+2020-12-06 15:17:36.229,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 15:17:43.155,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:17:50.159,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:18:01.596,ERROR,左框条码枪回复超时:2000ms  
+2020-12-06 15:18:15.371,ERROR,左框条码枪回复超时:2000ms  
+2020-12-06 15:18:41.938,ERROR,左框条码枪回复超时:2000ms  
+2020-12-06 15:18:46.134,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:18:50.955,ERROR,左框条码枪回复超时:2000ms  
+2020-12-06 15:19:10.878,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800265HY01  
+2020-12-06 15:19:42.452,ERROR,右框条码枪扫码超时:2000  
+2020-12-06 15:20:13.746,ERROR,右屏扫码枪扫码超时:2000  
+2020-12-06 15:20:38.628,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:21:51.712,ERROR,初始化链接MES 失败 ！返回值：4098  
+2020-12-06 15:21:55.237,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:21:59.012,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:22:39.526,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:22:45.844,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:23:20.413,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:23:22.722,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800265HY01  
+2020-12-06 15:23:49.539,ERROR,右屏扫码枪扫码超时:2000  
+2020-12-06 15:23:53.033,ERROR,右框条码枪扫码超时:2000  
+2020-12-06 15:23:58.368,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800265HY01  
+2020-12-06 15:24:04.686,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 15:24:16.027,ERROR,左屏扫码枪扫码超时:2000  
+2020-12-06 15:24:24.327,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207475440000B12000D9KM10  
+2020-12-06 15:25:11.054,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207475440000B12000D9KM10  
+2020-12-06 15:28:00.521,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800265HY01  
+2020-12-06 15:28:07.494,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207475440000B12000D9KM10  
+2020-12-06 15:29:58.660,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800265HY01  
+2020-12-06 15:30:00.813,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207475440000B12000D9KM10  
+2020-12-06 15:35:33.146,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 15:38:31.220,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 15:39:12.997,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 15:39:17.068,ERROR,左框条码枪回复超时:2000ms  
+2020-12-06 15:40:30.623,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 15:40:40.326,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800265HY01  
+2020-12-06 15:40:50.341,ERROR,左屏扫码枪扫码超时:2000  
+2020-12-06 15:40:53.820,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207475440000B12000D9KM10  
+2020-12-06 15:43:49.215,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B1400434HY01  
+2020-12-06 16:03:25.922,ERROR,MesStart失败：未将对象引用设置到对象的实例。 System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Helper.Settings.GetSetting(String key) 位置 D:\lzy\NewSolution\Helper\Settings.cs:行号 15
+   在 MesAdapter.HuaBei.MesStart(String sn) 位置 D:\lzy\NewSolution\MesAdapter\HuaBei.cs:行号 96
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   在 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 85
+ 
+2020-12-06 16:03:34.393,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 16:03:37.112,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B1400434HY01  
+2020-12-06 16:03:38.735,ERROR,MesStart失败：未将对象引用设置到对象的实例。 System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Helper.Settings.GetSetting(String key) 位置 D:\lzy\NewSolution\Helper\Settings.cs:行号 15
+   在 MesAdapter.HuaBei.MesStart(String sn) 位置 D:\lzy\NewSolution\MesAdapter\HuaBei.cs:行号 96
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   在 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 85
+ 
+2020-12-06 16:05:02.166,DEBUG,Mes服务器回复=>错误码：20016；错误信息：{
+   "DATA" : {
+      "G_CHECKFLOWID" : null
+   },
+   "H_MSG" : "MES response:SN not exists!HQ218105800000B1400434HY01.CurrStep:step6:check sn exists or not(6252D8D206164F92ABB47D2489195970)",
+   "NeedLoad" : null
+}
+  
+2020-12-06 16:05:02.166,ERROR,MesStart 调用错误=>返回值:20016;MES response:SN not exists!HQ218105800000B1400434HY01.CurrStep:step6:check sn exists or not(6252D8D206164F92ABB47D2489195970)  
+2020-12-06 16:05:47.188,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207475440000B12000D9KM10  
+2020-12-06 16:05:49.778,DEBUG,Mes服务器回复=>错误码：30010；错误信息：{
+   "G_NEXTWS" : null,
+   "H_MSG" : "MES response:Rotuing检查失败,建议去:No station can accept this status, please ask MES ,Module used in ME or FG,SN:HQ207475440000B12000D9KM10.CurrStep:step6:check routing(E3DC6A4D68AF40F3A59B1C20478A6FF9)"
+}
+  
+2020-12-06 16:05:49.778,ERROR,MES response:Rotuing检查失败,建议去:No station can accept this status, please ask MES ,Module used in ME or FG,SN:HQ207475440000B12000D9KM10.CurrStep:step6:check routing(E3DC6A4D68AF40F3A59B1C20478A6FF9)  
+2020-12-06 16:08:54.888,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 16:09:09.193,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B1400434HY01  
+2020-12-06 16:09:11.190,DEBUG,Mes服务器回复=>错误码：20016；错误信息：{
+   "DATA" : {
+      "G_CHECKFLOWID" : null
+   },
+   "H_MSG" : "MES response:SN not exists!HQ218105800000B1400434HY01.CurrStep:step6:check sn exists or not(1EB8EA94DC9E4B128D0459EDE3533D48)",
+   "NeedLoad" : null
+}
+  
+2020-12-06 16:09:11.190,ERROR,MesStart 调用错误=>返回值:20016;MES response:SN not exists!HQ218105800000B1400434HY01.CurrStep:step6:check sn exists or not(1EB8EA94DC9E4B128D0459EDE3533D48)  
+2020-12-06 16:09:19.193,ERROR,MesEnd失败：参数"左屏条码"不存在 System.Exception: 参数"左屏条码"不存在
+   在 TKS.Manager.Flow.GetOutput(String key) 位置 D:\lzy\NewSolution\MainProject\Manager\Flow.cs:行号 148
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 75
+ 
+2020-12-06 16:09:19.739,ERROR,左屏扫码枪回复超时:2000ms  
+2020-12-06 16:09:26.025,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207475440000B12000D9KM10  
+2020-12-06 16:09:28.521,DEBUG,Mes服务器回复=>错误码：30010；错误信息：{
+   "G_NEXTWS" : null,
+   "H_MSG" : "MES response:Rotuing检查失败,建议去:No station can accept this status, please ask MES ,Module used in ME or FG,SN:HQ207475440000B12000D9KM10.CurrStep:step6:check routing(91763321A6C84DBAA7355DD5245559B5)"
+}
+  
+2020-12-06 16:09:28.521,ERROR,MES response:Rotuing检查失败,建议去:No station can accept this status, please ask MES ,Module used in ME or FG,SN:HQ207475440000B12000D9KM10.CurrStep:step6:check routing(91763321A6C84DBAA7355DD5245559B5)  
+2020-12-06 16:09:38.958,WARN,流程开始  
+2020-12-06 16:09:45.416,WARN,流程停止  
+2020-12-06 16:10:08.083,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800265HY01  
+2020-12-06 16:10:10.657,DEBUG,Mes服务器回复=>错误码：20016；错误信息：{
+   "DATA" : {
+      "G_CHECKFLOWID" : null
+   },
+   "H_MSG" : "MES response:SN not exists!HQ218105800000B2800265HY01.CurrStep:step6:check sn exists or not(91946A2CF2D746599C37AD48B869E37F)",
+   "NeedLoad" : null
+}
+  
+2020-12-06 16:10:10.657,ERROR,MesStart 调用错误=>返回值:20016;MES response:SN not exists!HQ218105800000B2800265HY01.CurrStep:step6:check sn exists or not(91946A2CF2D746599C37AD48B869E37F)  
+2020-12-06 16:13:54.020,DEBUG,Mes服务器回复=>错误码：20016；错误信息：{
+   "DATA" : {
+      "G_CHECKFLOWID" : null
+   },
+   "H_MSG" : "MES response:SN not exists!HQ218105800000B2800265HY01.CurrStep:step6:check sn exists or not(622A9007B56348079B1417A8F2403F4A)",
+   "NeedLoad" : null
+}
+  
+2020-12-06 16:13:54.020,ERROR,MesStart 调用错误=>返回值:20016;MES response:SN not exists!HQ218105800000B2800265HY01.CurrStep:step6:check sn exists or not(622A9007B56348079B1417A8F2403F4A)  
+2020-12-06 16:16:17.917,INFO,左框条码:SLB30002043  
+2020-12-06 16:16:24.032,DEBUG,Mes服务器回复=>错误码：60002；错误信息：{
+   "DATA" : {
+      "CompList" : [
+         {
+            "BarcodeFormat" : "HQ20747326000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747325000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         }
+      ],
+      "G_CHECKFLOWID" : null,
+      "G_TESTLOGPATH" : ""
+   },
+   "G_FILE_PATH" : [],
+   "G_PHONE_DO" : {},
+   "G_RET_DATA" : {},
+   "H_MSG" : "Request ID[5D05C33DEE704F718D9F811CF59FA97E]Old []New[undefined]工单信息不一致，请重新同步",
+   "NeedLoad" : "N",
+   "needDownLoad" : "Y"
+}
+  
+2020-12-06 16:16:24.032,ERROR,MesStart 调用错误=>返回值:60002;Request ID[5D05C33DEE704F718D9F811CF59FA97E]Old []New[undefined]工单信息不一致，请重新同步  
+2020-12-06 16:21:11.032,INFO,左框条码枪扫码成功=>左框条码:HQ218105800000B2800273HY01  
+2020-12-06 16:21:14.292,DEBUG,Mes服务器回复=>错误码：20016；错误信息：{
+   "DATA" : {
+      "G_CHECKFLOWID" : null
+   },
+   "H_MSG" : "MES response:SN not exists!HQ218105800000B2800273HY01.CurrStep:step6:check sn exists or not(7F63845F63084ACC80061C1FDE9606B6)",
+   "NeedLoad" : null
+}
+  
+2020-12-06 16:21:14.292,ERROR,MesStart 调用错误=>返回值:20016;MES response:SN not exists!HQ218105800000B2800273HY01.CurrStep:step6:check sn exists or not(7F63845F63084ACC80061C1FDE9606B6)  
+2020-12-06 16:24:48.809,INFO,左框条码:SLB30002043  
+2020-12-06 16:24:53.380,DEBUG,Mes服务器回复=>错误码：60002；错误信息：{
+   "DATA" : {
+      "CompList" : [
+         {
+            "BarcodeFormat" : "HQ20747493000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747326000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747325000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         }
+      ],
+      "G_CHECKFLOWID" : null,
+      "G_TESTLOGPATH" : ""
+   },
+   "G_FILE_PATH" : [],
+   "G_PHONE_DO" : {},
+   "G_RET_DATA" : {},
+   "H_MSG" : "Request ID[882BD6C36B7D436EBBE7DB663F153CED]Old []New[undefined]工单信息不一致，请重新同步",
+   "NeedLoad" : "N",
+   "needDownLoad" : "Y"
+}
+  
+2020-12-06 16:24:53.380,ERROR,MesStart 调用错误=>返回值:60002;Request ID[882BD6C36B7D436EBBE7DB663F153CED]Old []New[undefined]工单信息不一致，请重新同步  
+2020-12-06 16:27:00.821,INFO,左框条码:SLB30002043  
+2020-12-06 16:27:26.483,INFO,左框条码:SLB30002043  
+2020-12-06 16:27:37.761,INFO,左框条码:SLB30002043  
+2020-12-06 16:27:45.437,DEBUG,Mes服务器回复=>错误码：60002；错误信息：{
+   "DATA" : {
+      "CompList" : [
+         {
+            "BarcodeFormat" : "HQ20747493000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747326000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747325000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         }
+      ],
+      "G_CHECKFLOWID" : null,
+      "G_TESTLOGPATH" : ""
+   },
+   "G_FILE_PATH" : [],
+   "G_PHONE_DO" : {},
+   "G_RET_DATA" : {},
+   "H_MSG" : "Request ID[094D3357D64A4CE9B8D3486E83799F85]Old []New[undefined]工单信息不一致，请重新同步",
+   "NeedLoad" : "N",
+   "needDownLoad" : "Y"
+}
+  
+2020-12-06 16:27:45.437,ERROR,MesStart 调用错误=>返回值:60002;Request ID[094D3357D64A4CE9B8D3486E83799F85]Old []New[undefined]工单信息不一致，请重新同步  
+2020-12-06 16:28:21.958,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 16:28:32.254,ERROR,MesStart失败：参数"左框条码"不存在 System.Exception: 参数"左框条码"不存在
+   在 TKS.Manager.Flow.GetOutput(String key) 位置 D:\lzy\NewSolution\MainProject\Manager\Flow.cs:行号 148
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\MesTool.cs:行号 75
+ 
+2020-12-06 16:29:32.677,ERROR,参数"SLB000043"不存在 System.Exception: 参数"SLB000043"不存在
+   在 TKS.Manager.Flow.GetOutput(String key) 位置 D:\lzy\NewSolution\MainProject\Manager\Flow.cs:行号 148
+   在 TKS.FlowChart.Tool.ToolBase.GetInputs(String id) 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\ToolBase.cs:行号 142
+   在 TKS.FlowChart.Tool.StringFormatTool.Action() 位置 D:\lzy\NewSolution\MainProject\FlowChart\Tool\StringFormatTool.cs:行号 44
+ 
+2020-12-06 16:29:40.680,INFO,左框条码:SLB000043  
+2020-12-06 16:29:43.519,DEBUG,Mes服务器回复=>错误码：20016；错误信息：{
+   "DATA" : {
+      "G_CHECKFLOWID" : null
+   },
+   "H_MSG" : "MES response:SN not exists!SLB000043.CurrStep:step6:check sn exists or not(BC49BFD0DC0342BA91658D4A21A90CC9)",
+   "NeedLoad" : null
+}
+  
+2020-12-06 16:29:43.519,ERROR,MesStart 调用错误=>返回值:20016;MES response:SN not exists!SLB000043.CurrStep:step6:check sn exists or not(BC49BFD0DC0342BA91658D4A21A90CC9)  
+2020-12-06 16:30:40.882,INFO,左框条码:SLB30002043  
+2020-12-06 16:30:46.685,DEBUG,Mes服务器回复=>错误码：60002；错误信息：{
+   "DATA" : {
+      "CompList" : [
+         {
+            "BarcodeFormat" : "HQ20747493000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747326000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747325000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         }
+      ],
+      "G_CHECKFLOWID" : null,
+      "G_TESTLOGPATH" : ""
+   },
+   "G_FILE_PATH" : [],
+   "G_PHONE_DO" : {},
+   "G_RET_DATA" : {},
+   "H_MSG" : "Request ID[44E4DE7F50554B0BAC51AA8876A183E9]Old []New[undefined]工单信息不一致，请重新同步",
+   "NeedLoad" : "N",
+   "needDownLoad" : "Y"
+}
+  
+2020-12-06 16:30:46.685,ERROR,MesStart 调用错误=>返回值:60002;Request ID[44E4DE7F50554B0BAC51AA8876A183E9]Old []New[undefined]工单信息不一致，请重新同步  
+2020-12-06 16:32:02.909,INFO,左屏扫码枪扫码成功=>左屏条码:HQ207474930000B21001BDYH01  
+2020-12-06 16:32:05.186,DEBUG,Mes服务器回复=>错误码：30010；错误信息：{
+   "G_NEXTWS" : null,
+   "H_MSG" : "MES response:Rotuing检查失败,建议去:No station can accept this status, please ask MES ,Module used in ME or FG,SN:HQ207474930000B21001BDYH01.CurrStep:step6:check routing(5298DAB4AB8A4909A45AB518D77EE311)"
+}
+  
+2020-12-06 16:32:05.186,ERROR,MES response:Rotuing检查失败,建议去:No station can accept this status, please ask MES ,Module used in ME or FG,SN:HQ207474930000B21001BDYH01.CurrStep:step6:check routing(5298DAB4AB8A4909A45AB518D77EE311)  
+2020-12-06 16:54:05.405,INFO,左框条码:SLB30002043  
+2020-12-06 16:54:13.735,DEBUG,Mes服务器回复=>错误码：60002；错误信息：{
+   "DATA" : {
+      "CompList" : [
+         {
+            "BarcodeFormat" : "HQ20747493000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747326000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747325000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         }
+      ],
+      "G_CHECKFLOWID" : null,
+      "G_TESTLOGPATH" : ""
+   },
+   "G_FILE_PATH" : [],
+   "G_PHONE_DO" : {},
+   "G_RET_DATA" : {},
+   "H_MSG" : "Request ID[ECBD5F2791BA4CC090B93356045FD809]Old []New[undefined]工单信息不一致，请重新同步",
+   "NeedLoad" : "N",
+   "needDownLoad" : "Y"
+}
+  
+2020-12-06 16:54:13.751,ERROR,MesStart 调用错误=>返回值:60002;Request ID[ECBD5F2791BA4CC090B93356045FD809]Old []New[undefined]工单信息不一致，请重新同步  
+2020-12-06 16:55:48.614,INFO,左框条码:SLB30002043  
+2020-12-06 16:56:13.309,INFO,左框条码:SLB30002043  
+2020-12-06 16:56:31.078,INFO,左框条码:SLB30002043  
+2020-12-06 16:56:41.842,INFO,左框条码:SLB30002043  
+2020-12-06 16:57:23.993,DEBUG,Mes服务器回复=>错误码：60002；错误信息：{
+   "DATA" : {
+      "CompList" : [
+         {
+            "BarcodeFormat" : "HQ20747493000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747326000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         },
+         {
+            "BarcodeFormat" : "HQ20747325000*************",
+            "Category" : "COVER_Module",
+            "GroupName" : "25",
+            "QTY" : "1"
+         }
+      ],
+      "G_CHECKFLOWID" : null,
+      "G_TESTLOGPATH" : ""
+   },
+   "G_FILE_PATH" : [],
+   "G_PHONE_DO" : {},
+   "G_RET_DATA" : {},
+   "H_MSG" : "Request ID[52544C2F11264D2686E81122B47BDCCD]Old []New[undefined]工单信息不一致，请重新同步",
+   "NeedLoad" : "N",
+   "needDownLoad" : "Y"
+}
+  
+2020-12-06 16:57:23.993,ERROR,MesStart 调用错误=>返回值:60002;Request ID[52544C2F11264D2686E81122B47BDCCD]Old []New[undefined]工单信息不一致，请重新同步  
+2020-12-06 17:41:27.302,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:41:36.100,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:43:51.072,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:45:19.992,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:45:32.940,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:45:51.644,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:46:35.059,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:46:44.092,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:46:57.258,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:47:32.155,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:50:15.971,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:50:35.019,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:50:50.790,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  
+2020-12-06 17:51:08.512,INFO,初始化链接MES 成功 ！MEShelper版本：NodeJSServer Version[1.0.7.1] HQ_ALL_MESHelper_V1.8  

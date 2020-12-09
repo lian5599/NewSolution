@@ -1,0 +1,74 @@
+2020-11-24 11:44:05.533,ERROR,机故上报失败：参数"机故1"不存在 System.Exception: 参数"机故1"不存在
+   在 TKS.Manager.Flow.GetOutput(String key) 位置 D:\lzy\NewSolution_LangFang\MainProject\Manager\Flow.cs:行号 148
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution_LangFang\MainProject\FlowChart\Tool\MesTool.cs:行号 75
+ 
+2020-11-24 11:44:10.938,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:44:14.416,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:7788
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 11:44:14.429,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 11:45:13.823,DEBUG,PLC Write UInt16 Address:1; Value:[2]  
+2020-11-24 11:45:15.151,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:45:30.572,DEBUG,PLC Write UInt16 Address:1; Value:[1]  
+2020-11-24 11:45:31.832,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:45:40.774,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-11-24 11:45:41.863,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 11:45:43.034,INFO,机故上报=>编码:1；描述:急停报警  
+2020-11-24 11:45:43.035,DEBUG,IOT回复：{"Age":18,"ID":1,"Name":"张三","Score":98}  
+2020-11-24 11:53:52.372,ERROR,机故上报失败：未定义错误码：1 System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> System.Exception: 未定义错误码：1
+   在 MesAdapter.ErrorCodeCollection.GetError(Int32 code) 位置 D:\lzy\NewSolution_LangFang\MesAdapter\LangFang\ErrorCodeCollection.cs:行号 70
+   在 MesAdapter.MesAdapterBySocketClient.机故上报(Int32 e1, Int32 e2, Int32 e3) 位置 D:\lzy\NewSolution_LangFang\MesAdapter\LangFang\MesAdapter.cs:行号 304
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   在 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution_LangFang\MainProject\FlowChart\Tool\MesTool.cs:行号 85
+ 
+2020-11-24 13:31:18.367,WARN,流程开始  
+2020-11-24 13:31:20.531,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:7788
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:31:20.538,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 13:31:20.573,WARN,流程停止  
+2020-11-24 13:31:39.167,WARN,流程开始  
+2020-11-24 13:31:41.590,WARN,流程停止  
+2020-11-24 13:33:28.541,WARN,流程开始  
+2020-11-24 13:33:35.097,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:7788
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:33:35.105,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 13:33:52.143,WARN,流程停止  

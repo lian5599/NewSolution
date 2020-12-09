@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{1EAE98D3-2C03-4D4A-A2DF-9AAA37772B6F}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>8.0</LangVersion>
+    <AssemblyName>Northwoods.Go</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Drawing">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Northwoods.Go\GoArc.cs" />
+    <Compile Include="Northwoods.Go\GoBalloon.cs" />
+    <Compile Include="Northwoods.Go\GoBasicNode.cs" />
+    <Compile Include="Northwoods.Go\GoBoxNode.cs" />
+    <Compile Include="Northwoods.Go\GoBoxPort.cs" />
+    <Compile Include="Northwoods.Go\GoBoxPortLinkInfo.cs" />
+    <Compile Include="Northwoods.Go\GoBrushStyle.cs" />
+    <Compile Include="Northwoods.Go\GoButton.cs" />
+    <Compile Include="Northwoods.Go\GoChangedEventArgs.cs" />
+    <Compile Include="Northwoods.Go\GoChangedEventHandler.cs" />
+    <Compile Include="Northwoods.Go\GoCollapsibleHandle.cs" />
+    <Compile Include="Northwoods.Go\GoCollapsibleHandleStyle.cs" />
+    <Compile Include="Northwoods.Go\GoCollection.cs" />
+    <Compile Include="Northwoods.Go\GoCollectionEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoComment.cs" />
+    <Compile Include="Northwoods.Go\GoContextMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Northwoods.Go\GoControl.cs" />
+    <Compile Include="Northwoods.Go\GoCopyDelayedsCollection.cs" />
+    <Compile Include="Northwoods.Go\GoCopyDictionary.cs" />
+    <Compile Include="Northwoods.Go\GoCube.cs" />
+    <Compile Include="Northwoods.Go\GoCylinder.cs" />
+    <Compile Include="Northwoods.Go\GoDiamond.cs" />
+    <Compile Include="Northwoods.Go\GoDocument.cs" />
+    <Compile Include="Northwoods.Go\GoDocumentValidCycle.cs" />
+    <Compile Include="Northwoods.Go\GoDragImage.cs" />
+    <Compile Include="Northwoods.Go\GoDragRectangle.cs" />
+    <Compile Include="Northwoods.Go\GoDrawing.cs" />
+    <Compile Include="Northwoods.Go\GoDrawingAction.cs" />
+    <Compile Include="Northwoods.Go\GoDrawingData.cs" />
+    <Compile Include="Northwoods.Go\GoEllipse.cs" />
+    <Compile Include="Northwoods.Go\GoFigure.cs" />
+    <Compile Include="Northwoods.Go\GoFigureDrawing.cs" />
+    <Compile Include="Northwoods.Go\GoGeneralNode.cs" />
+    <Compile Include="Northwoods.Go\GoGeneralNodePort.cs" />
+    <Compile Include="Northwoods.Go\GoGeneralNodePortLabel.cs" />
+    <Compile Include="Northwoods.Go\GoGrid.cs" />
+    <Compile Include="Northwoods.Go\GoGroup.cs" />
+    <Compile Include="Northwoods.Go\GoGroupEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoHandle.cs" />
+    <Compile Include="Northwoods.Go\GoHandleRotated.cs" />
+    <Compile Include="Northwoods.Go\GoHandleStyle.cs" />
+    <Compile Include="Northwoods.Go\GoHexagon.cs" />
+    <Compile Include="Northwoods.Go\GoHexagonReshapeBehavior.cs" />
+    <Compile Include="Northwoods.Go\GoIconicNode.cs" />
+    <Compile Include="Northwoods.Go\GoImage.cs" />
+    <Compile Include="Northwoods.Go\GoInputEventArgs.cs" />
+    <Compile Include="Northwoods.Go\GoInputEventHandler.cs" />
+    <Compile Include="Northwoods.Go\GoInputState.cs" />
+    <Compile Include="Northwoods.Go\GoLabeledLink.cs" />
+    <Compile Include="Northwoods.Go\GoLayer.cs" />
+    <Compile Include="Northwoods.Go\GoLayerCollection.cs" />
+    <Compile Include="Northwoods.Go\GoLayerCollectionEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoLayerCollectionObjectEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoLayerEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoLink.cs" />
+    <Compile Include="Northwoods.Go\GoLinkAdjustingStyle.cs" />
+    <Compile Include="Northwoods.Go\GoListGroup.cs" />
+    <Compile Include="Northwoods.Go\GoMultiTextNode.cs" />
+    <Compile Include="Northwoods.Go\GoMultiTextNodeListGroup.cs" />
+    <Compile Include="Northwoods.Go\GoNode.cs" />
+    <Compile Include="Northwoods.Go\GoNodeIcon.cs" />
+    <Compile Include="Northwoods.Go\GoNodeLinkEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoNodeNodeEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoNodePortEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoObject.cs" />
+    <Compile Include="Northwoods.Go\GoObjectEnterLeaveEventArgs.cs" />
+    <Compile Include="Northwoods.Go\GoObjectEnterLeaveEventHandler.cs" />
+    <Compile Include="Northwoods.Go\GoObjectEventArgs.cs" />
+    <Compile Include="Northwoods.Go\GoObjectEventHandler.cs" />
+    <Compile Include="Northwoods.Go\GoOctagon.cs" />
+    <Compile Include="Northwoods.Go\GoOverview.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Northwoods.Go\GoOverviewRectangle.cs" />
+    <Compile Include="Northwoods.Go\GoPalette.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Northwoods.Go\GoParallelogram.cs" />
+    <Compile Include="Northwoods.Go\GoPartInfo.cs" />
+    <Compile Include="Northwoods.Go\GoPerspective.cs" />
+    <Compile Include="Northwoods.Go\GoPickInRectangleStyle.cs" />
+    <Compile Include="Northwoods.Go\GoPie.cs" />
+    <Compile Include="Northwoods.Go\GoPointFConverter.cs" />
+    <Compile Include="Northwoods.Go\GoPolygon.cs" />
+    <Compile Include="Northwoods.Go\GoPolygonStyle.cs" />
+    <Compile Include="Northwoods.Go\GoPort.cs" />
+    <Compile Include="Northwoods.Go\GoPortFilteredLinkEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoPortLinkEnumerator.cs" />
+    <Compile Include="Northwoods.Go\GoPortStyle.cs" />
+    <Compile Include="Northwoods.Go\GoPositionArray.cs" />
+    <Compile Include="Northwoods.Go\GoRectangle.cs" />
+    <Compile Include="Northwoods.Go\GoRoundedRectangle.cs" />
+    <Compile Include="Northwoods.Go\GoRoutingTime.cs" />
+    <Compile Include="Northwoods.Go\GoSelection.cs" />
+    <Compile Include="Northwoods.Go\GoSelectionEventArgs.cs" />
+    <Compile Include="Northwoods.Go\GoSelectionEventHandler.cs" />
+    <Compile Include="Northwoods.Go\GoShape.cs" />
+    <Compile Include="Northwoods.Go\GoSheet.cs" />
+    <Compile Include="Northwoods.Go\GoSimpleNode.cs" />
+    <Compile Include="Northwoods.Go\GoSizeFConverter.cs" />
+    <Compile Include="Northwoods.Go\GoStroke.cs" />
+    <Compile Include="Northwoods.Go\GoStrokeArrowheadStyle.cs" />
+    <Compile Include="Northwoods.Go\GoStrokeStyle.cs" />
+    <Compile Include="Northwoods.Go\GoSubGraph.cs" />
+    <Compile Include="Northwoods.Go\GoSubGraphBase.cs" />
+    <Compile Include="Northwoods.Go\GoSubGraphHandle.cs" />
+    <Compile Include="Northwoods.Go\GoSubGraphState.cs" />
+    <Compile Include="Northwoods.Go\GoText.cs" />
+    <Compile Include="Northwoods.Go\GoTextEditorStyle.cs" />
+    <Compile Include="Northwoods.Go\GoTextNode.cs" />
+    <Compile Include="Northwoods.Go\GoTool.cs" />
+    <Compile Include="Northwoods.Go\GoToolAction.cs" />
+    <Compile Include="Northwoods.Go\GoToolContext.cs" />
+    <Compile Include="Northwoods.Go\GoToolCreating.cs" />
+    <Compile Include="Northwoods.Go\GoToolDragging.cs" />
+    <Compile Include="Northwoods.Go\GoToolLinking.cs" />
+    <Compile Include="Northwoods.Go\GoToolLinkingNew.cs" />
+    <Compile Include="Northwoods.Go\GoToolManager.cs" />
+    <Compile Include="Northwoods.Go\GoToolPanning.cs" />
+    <Compile Include="Northwoods.Go\GoToolRelinking.cs" />
+    <Compile Include="Northwoods.Go\GoToolResizing.cs" />
+    <Compile Include="Northwoods.Go\GoToolRubberBanding.cs" />
+    <Compile Include="Northwoods.Go\GoToolSelecting.cs" />
+    <Compile Include="Northwoods.Go\GoToolStripMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Northwoods.Go\GoToolZooming.cs" />
+    <Compile Include="Northwoods.Go\GoTrapezoid.cs" />
+    <Compile Include="Northwoods.Go\GoTriangle.cs" />
+    <Compile Include="Northwoods.Go\GoUndoManager.cs" />
+    <Compile Include="Northwoods.Go\GoUndoManagerCompoundEdit.cs" />
+    <Compile Include="Northwoods.Go\GoView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Northwoods.Go\GoViewDisableKeys.cs" />
+    <Compile Include="Northwoods.Go\GoViewGridStyle.cs" />
+    <Compile Include="Northwoods.Go\GoViewScrollBarVisibility.cs" />
+    <Compile Include="Northwoods.Go\GoViewSheetStyle.cs" />
+    <Compile Include="Northwoods.Go\GoViewSnapStyle.cs" />
+    <Compile Include="Northwoods.Go\IGoActionObject.cs" />
+    <Compile Include="Northwoods.Go\IGoCollapsible.cs" />
+    <Compile Include="Northwoods.Go\IGoCollection.cs" />
+    <Compile Include="Northwoods.Go\IGoControlObject.cs" />
+    <Compile Include="Northwoods.Go\IGoDragSnapper.cs" />
+    <Compile Include="Northwoods.Go\IGoGraphPart.cs" />
+    <Compile Include="Northwoods.Go\IGoHandle.cs" />
+    <Compile Include="Northwoods.Go\IGoIdentifiablePart.cs" />
+    <Compile Include="Northwoods.Go\IGoLabeledNode.cs" />
+    <Compile Include="Northwoods.Go\IGoLabeledPart.cs" />
+    <Compile Include="Northwoods.Go\IGoLayerAbilities.cs" />
+    <Compile Include="Northwoods.Go\IGoLayerCollectionContainer.cs" />
+    <Compile Include="Northwoods.Go\IGoLink.cs" />
+    <Compile Include="Northwoods.Go\IGoNode.cs" />
+    <Compile Include="Northwoods.Go\IGoNodeIconConstraint.cs" />
+    <Compile Include="Northwoods.Go\IGoPartInfoRenderer.cs" />
+    <Compile Include="Northwoods.Go\IGoPort.cs" />
+    <Compile Include="Northwoods.Go\IGoRoutable.cs" />
+    <Compile Include="Northwoods.Go\IGoTool.cs" />
+    <Compile Include="Northwoods.Go\IGoUndoableEdit.cs" />
+    <Compile Include="Northwoods.Go\RotateHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Northwoods.Go\GoOverview.bmp" />
+    <EmbeddedResource Include="Northwoods.Go\GoPalette.bmp" />
+    <EmbeddedResource Include="Northwoods.Go\GoView.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

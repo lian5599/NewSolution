@@ -1,0 +1,99 @@
+E:\TEST\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe.config
+E:\TEST\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe
+E:\TEST\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunicationTst.pdb
+E:\TEST\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunication.dll
+E:\TEST\HslCommunicationTst\HslCommunicationTst\bin\Debug\Newtonsoft.Json.dll
+E:\TEST\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunication.xml
+E:\TEST\HslCommunicationTst\HslCommunicationTst\bin\Debug\Newtonsoft.Json.xml
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.csprojAssemblyReference.cache
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.Properties.Resources.resources
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.GenerateResource.cache
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CoreCompileInputs.cache
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CopyComplete
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.exe
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.pdb
+E:\TEST\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.Form1.resources
+D:\new project\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe.config
+D:\new project\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe
+D:\new project\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunicationTst.pdb
+D:\new project\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunication.dll
+D:\new project\HslCommunicationTst\HslCommunicationTst\bin\Debug\Newtonsoft.Json.dll
+D:\new project\HslCommunicationTst\HslCommunicationTst\bin\Debug\HslCommunication.xml
+D:\new project\HslCommunicationTst\HslCommunicationTst\bin\Debug\Newtonsoft.Json.xml
+D:\new project\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.Form1.resources
+D:\new project\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.Properties.Resources.resources
+D:\new project\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.GenerateResource.cache
+D:\new project\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CoreCompileInputs.cache
+D:\new project\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CopyComplete
+D:\new project\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.exe
+D:\new project\HslCommunicationTst\HslCommunicationTst\obj\Debug\HslCommunicationTst.pdb
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe.config
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\HslCommunicationTst.pdb
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\HslCommunication.dll
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\Newtonsoft.Json.dll
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\HslCommunication.xml
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\Newtonsoft.Json.xml
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csprojAssemblyReference.cache
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.Form1.resources
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.Properties.Resources.resources
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.GenerateResource.cache
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CoreCompileInputs.cache
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CopyComplete
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.exe
+D:\new project\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.pdb
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\Communication.dll
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\Helper.dll
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\log4net.dll
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\Communication.pdb
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\Helper.pdb
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\log4net.xml
+D:\new project\NewSolution\HslCommunicationTst\bin\Debug\log4net.config
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe.config
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\HslCommunicationTst.pdb
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\Communication.dll
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\HslCommunication.dll
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\Helper.dll
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\log4net.dll
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\Communication.pdb
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\HslCommunication.xml
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\Helper.pdb
+D:\lzy\NewSolution\HslCommunicationTst\bin\Debug\log4net.xml
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csprojAssemblyReference.cache
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.Form1.resources
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.Properties.Resources.resources
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.GenerateResource.cache
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CopyComplete
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.exe
+D:\lzy\NewSolution\HslCommunicationTst\obj\Debug\HslCommunicationTst.pdb
+\\192.168.30.100\share\test\Debug\HslCommunicationTst.exe.config
+\\192.168.30.100\share\test\Debug\HslCommunicationTst.exe
+\\192.168.30.100\share\test\Debug\HslCommunicationTst.pdb
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe.config
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\HslCommunicationTst.exe
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\HslCommunicationTst.pdb
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\Communication.dll
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\HslCommunication.dll
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\Helper.dll
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\log4net.dll
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\Communication.pdb
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\HslCommunication.xml
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\Helper.pdb
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\bin\Debug\log4net.xml
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.csprojAssemblyReference.cache
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.Form1.resources
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.Properties.Resources.resources
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.GenerateResource.cache
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.csproj.CopyComplete
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.exe
+D:\lzy\NewSolution_LangFang\HslCommunicationTst\obj\Debug\HslCommunicationTst.pdb

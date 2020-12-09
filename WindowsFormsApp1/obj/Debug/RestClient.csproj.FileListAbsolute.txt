@@ -1,0 +1,14 @@
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\obj\Debug\RestClient.csprojAssemblyReference.cache
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\obj\Debug\RestClient.csproj.GenerateResource.cache
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\obj\Debug\RestClient.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\obj\Debug\RestClient.csproj.CopyComplete
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lzy\NewSolution_LangFang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

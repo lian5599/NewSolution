@@ -1,0 +1,228 @@
+2020-11-24 11:32:43.598,DEBUG,PLC Write UInt16 Address:2000; Value:[1]  
+2020-11-24 11:32:49.459,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:32:57.570,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 11:32:57.589,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 11:33:12.020,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 11:33:12.022,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 11:33:32.993,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:33:47.810,DEBUG,PLC Write UInt16 Address:2000; Value:[1]  
+2020-11-24 11:33:49.117,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:33:53.535,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-11-24 11:33:55.196,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 11:34:08.122,DEBUG,PLC Write UInt16 Address:20000; Value:[4]  
+2020-11-24 11:34:16.537,INFO,PLC Read =>机故1:4;机故2:0;机故3:0;  
+2020-11-24 11:34:17.451,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 11:34:17.452,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 11:34:52.130,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 11:34:52.132,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 11:37:25.068,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-11-24 11:37:25.990,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 11:37:49.299,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 11:39:11.855,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-11-24 11:39:13.426,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:40:06.070,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 11:40:29.289,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 11:40:29.294,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 13:04:41.764,ERROR,PLC写入20000到20000失败:PLC回复超时:2000  
+2020-11-24 13:04:43.761,ERROR,PLC回复超时:2000  
+2020-11-24 13:05:19.124,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-11-24 13:05:23.708,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 13:05:46.835,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:05:46.844,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 13:05:49.113,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-11-24 13:05:50.799,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 13:06:13.226,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:06:13.245,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 13:06:19.468,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-11-24 13:06:20.788,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 13:08:07.512,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 13:08:28.556,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:08:28.561,ERROR,机故上报出错：操作超时  
+2020-11-24 13:08:39.153,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-11-24 13:08:44.183,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 13:08:48.575,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:08:48.577,ERROR,机故上报出错：操作超时  
+2020-11-24 13:09:06.577,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-11-24 13:09:07.564,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 13:09:09.642,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:09:09.643,ERROR,机故上报出错：操作超时  
+2020-11-24 13:09:53.126,DEBUG,PLC Write UInt16 Address:20000; Value:[2]  
+2020-11-24 13:09:54.595,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 13:09:56.513,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:09:56.515,ERROR,机故上报出错：操作超时  
+2020-11-24 13:10:37.146,INFO,PLC Read =>机故1:2;机故2:0;机故3:0;  
+2020-11-24 13:10:47.529,DEBUG,PLC Write UInt16 Address:20000; Value:[4]  
+2020-11-24 13:10:48.743,INFO,PLC Read =>机故1:4;机故2:0;机故3:0;  
+2020-11-24 13:11:09.840,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:11:09.842,ERROR,机故上报出错：操作超时  
+2020-11-24 13:12:11.089,DEBUG,PLC Write UInt16 Address:20000; Value:[1]  
+2020-11-24 13:12:12.508,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 13:12:34.682,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.75.10.46:8083
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:12:34.684,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-24 13:17:12.087,INFO,PLC Read =>机故1:1;机故2:0;机故3:0;  
+2020-11-24 13:17:15.082,ERROR,操作超时 System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-24 13:17:15.087,ERROR,机故上报出错：操作超时  

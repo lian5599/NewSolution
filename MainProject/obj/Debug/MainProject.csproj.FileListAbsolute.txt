@@ -1,0 +1,209 @@
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\FlowCharter.GraphNodeForm.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\FlowCharter.GraphViewWindow.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\FlowCharter.PaletteForm.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\TKS.MainForm.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\TKS.Properties.Resources.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\TKS.SubForm.AccountForm.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\TKS.SubForm.HardWareForm.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\TKS.SubForm.LogForm.resources
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\MainProject.csproj.GenerateResource.cache
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\TKS.exe
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\TKS.pdb
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\log4net.config
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\TKS.exe.config
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\TKS.exe
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\TKS.pdb
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Communication.dll
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Helper.dll
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Newtonsoft.Json.dll
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Northwoods.Go.dll
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Northwoods.Go.Xml.dll
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\log4net.dll
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Communication.pdb
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Helper.pdb
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Northwoods.Go.Xml.pdb
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Northwoods.Go.pdb
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\Newtonsoft.Json.xml
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\log4net.xml
+D:\new project\HslCommunicationTst\MainProject\obj\Debug\MainProject.csproj.CopyComplete
+D:\new project\NewSolution\MainProject\bin\Debug\log4net.config
+D:\new project\NewSolution\MainProject\bin\Debug\TKS.exe.config
+D:\new project\NewSolution\MainProject\bin\Debug\TKS.exe
+D:\new project\NewSolution\MainProject\bin\Debug\TKS.pdb
+D:\new project\NewSolution\MainProject\bin\Debug\Communication.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Helper.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Newtonsoft.Json.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Northwoods.Go.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Northwoods.Go.Xml.dll
+D:\new project\NewSolution\MainProject\bin\Debug\log4net.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Communication.pdb
+D:\new project\NewSolution\MainProject\bin\Debug\Helper.pdb
+D:\new project\NewSolution\MainProject\bin\Debug\Northwoods.Go.Xml.pdb
+D:\new project\NewSolution\MainProject\bin\Debug\Northwoods.Go.pdb
+D:\new project\NewSolution\MainProject\bin\Debug\Newtonsoft.Json.xml
+D:\new project\NewSolution\MainProject\bin\Debug\log4net.xml
+D:\new project\NewSolution\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+D:\new project\NewSolution\MainProject\obj\Debug\FlowCharter.GraphNodeForm.resources
+D:\new project\NewSolution\MainProject\obj\Debug\FlowCharter.GraphViewWindow.resources
+D:\new project\NewSolution\MainProject\obj\Debug\FlowCharter.PaletteForm.resources
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.MainForm.resources
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.Properties.Resources.resources
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.SubForm.AccountForm.resources
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.SubForm.HardWareForm.resources
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.SubForm.LogForm.resources
+D:\new project\NewSolution\MainProject\obj\Debug\MainProject.csproj.GenerateResource.cache
+D:\new project\NewSolution\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+D:\new project\NewSolution\MainProject\obj\Debug\MainProject.csproj.CopyComplete
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.exe
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.pdb
+D:\new project\NewSolution\MainProject\bin\Debug\BenQGuru.eMES.DLLService.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Common.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Web.Helper.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.DataCollect.dll
+D:\new project\NewSolution\MainProject\bin\Debug\UserControl.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Domain.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.MOModel.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.BaseSetting.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.OQC.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.CodeSoftPrint.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.DLLService.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Dal.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.TS.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LcLog.Helper.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Rework.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Security.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Material.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.TSModel.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.SMT.dll
+D:\new project\NewSolution\MainProject\bin\Debug\WriteReadIniDLL.dll
+D:\new project\NewSolution\MainProject\bin\Debug\NPOI.dll
+D:\new project\NewSolution\MainProject\bin\Debug\NPOI.OOXML.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\new project\NewSolution\MainProject\bin\Debug\ControlLibrary.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics35.WebUI.Documents.Excel.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Report.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Performance.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.Alert.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Interop.LabelManager2.dll
+D:\new project\NewSolution\MainProject\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\new project\NewSolution\MainProject\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\new project\NewSolution\MainProject\bin\Debug\NPOI.OpenXml4Net.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.WebQuery.dll
+D:\new project\NewSolution\MainProject\bin\Debug\LC.MES.MailUtility.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\new project\NewSolution\MainProject\bin\Debug\Interop.TkxRFTAG.dll
+D:\new project\NewSolution\MainProject\bin\Debug\stdole.dll
+D:\new project\NewSolution\MainProject\bin\Debug\BenQGuru.eMES.DLLService.dll.config
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.exe.config
+D:\new project\NewSolution\MainProject\obj\Debug\TKS.SubForm.SettingFrom.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+D:\lzy\NewSolution\MainProject\obj\Debug\FlowCharter.GraphNodeForm.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\FlowCharter.GraphViewWindow.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\FlowCharter.PaletteForm.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.MainForm.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.Properties.Resources.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.SubForm.AccountForm.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.SubForm.SettingFrom.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.SubForm.HardWareForm.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.SubForm.LogForm.resources
+D:\lzy\NewSolution\MainProject\obj\Debug\MainProject.csproj.GenerateResource.cache
+D:\lzy\NewSolution\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution\MainProject\obj\Debug\MainProject.csproj.CopyComplete
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.exe
+D:\lzy\NewSolution\MainProject\obj\Debug\TKS.pdb
+\\192.168.1.11\lzy\Debug\log4net.config
+\\192.168.1.11\lzy\Debug\TKS.exe.config
+\\192.168.1.11\lzy\Debug\TKS.exe
+\\192.168.1.11\lzy\Debug\TKS.pdb
+D:\lzy\NewSolution\MainProject\log4net.config
+D:\lzy\NewSolution\MainProject\TKS.exe.config
+D:\lzy\NewSolution\MainProject\TKS.exe
+D:\lzy\NewSolution\MainProject\TKS.pdb
+D:\lzy\NewSolution\MainProject\Communication.dll
+D:\lzy\NewSolution\MainProject\ComponentFactory.Krypton.Docking.dll
+D:\lzy\NewSolution\MainProject\ComponentFactory.Krypton.Navigator.dll
+D:\lzy\NewSolution\MainProject\ComponentFactory.Krypton.Ribbon.dll
+D:\lzy\NewSolution\MainProject\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution\MainProject\ComponentFactory.Krypton.Workspace.dll
+D:\lzy\NewSolution\MainProject\Helper.dll
+D:\lzy\NewSolution\MainProject\Newtonsoft.Json.dll
+D:\lzy\NewSolution\MainProject\Northwoods.Go.dll
+D:\lzy\NewSolution\MainProject\Northwoods.Go.Xml.dll
+D:\lzy\NewSolution\MainProject\WeifenLuo.WinFormsUI.Docking.dll
+D:\lzy\NewSolution\MainProject\log4net.dll
+D:\lzy\NewSolution\MainProject\Communication.pdb
+D:\lzy\NewSolution\MainProject\Helper.pdb
+D:\lzy\NewSolution\MainProject\Northwoods.Go.Xml.pdb
+D:\lzy\NewSolution\MainProject\Northwoods.Go.pdb
+D:\lzy\NewSolution\MainProject\Newtonsoft.Json.xml
+D:\lzy\NewSolution\MainProject\log4net.xml
+D:\lzy\NewSolution\MainProject\bin\debug\log4net.config
+D:\lzy\NewSolution\MainProject\bin\debug\TKS.exe.config
+D:\lzy\NewSolution\MainProject\bin\debug\TKS.exe
+D:\lzy\NewSolution\MainProject\bin\debug\TKS.pdb
+D:\lzy\NewSolution\MainProject\bin\debug\Communication.dll
+D:\lzy\NewSolution\MainProject\bin\debug\Helper.dll
+D:\lzy\NewSolution\MainProject\bin\debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution\MainProject\bin\debug\Northwoods.Go.dll
+D:\lzy\NewSolution\MainProject\bin\debug\Northwoods.Go.Xml.dll
+D:\lzy\NewSolution\MainProject\bin\debug\log4net.dll
+D:\lzy\NewSolution\MainProject\bin\debug\Communication.pdb
+D:\lzy\NewSolution\MainProject\bin\debug\Helper.pdb
+D:\lzy\NewSolution\MainProject\bin\debug\Northwoods.Go.Xml.pdb
+D:\lzy\NewSolution\MainProject\bin\debug\Northwoods.Go.pdb
+D:\lzy\NewSolution\MainProject\bin\debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution\MainProject\bin\debug\log4net.xml
+\\192.168.30.100\share\Debug\log4net.config
+\\192.168.30.100\share\Debug\TKS.exe.config
+\\192.168.30.100\share\Debug\TKS.exe
+\\192.168.30.100\share\Debug\TKS.pdb
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\log4net.config
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\TKS.exe.config
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\TKS.exe
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\TKS.pdb
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Communication.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Helper.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Northwoods.Go.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Northwoods.Go.Xml.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\log4net.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Communication.pdb
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Helper.pdb
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Northwoods.Go.Xml.pdb
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Northwoods.Go.pdb
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\log4net.xml
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\FlowCharter.GraphNodeForm.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\FlowCharter.GraphViewWindow.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\FlowCharter.PaletteForm.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.MainForm.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.Properties.Resources.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.SubForm.AccountForm.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.SubForm.SettingFrom.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.SubForm.HardWareForm.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.SubForm.LogForm.resources
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\MainProject.csproj.GenerateResource.cache
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\MainProject.csproj.CopyComplete
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.exe
+D:\lzy\NewSolution_LangFang\MainProject\obj\Debug\TKS.pdb
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\RestSharp.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\RestSharp.xml
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\MesAdapter.dll
+D:\lzy\NewSolution_LangFang\MainProject\bin\Debug\MesAdapter.pdb
+D:\lzy\NewSolution\MainProject\bin\Debug\MesAdapter.dll
+D:\lzy\NewSolution\MainProject\bin\Debug\RestSharp.dll
+D:\lzy\NewSolution\MainProject\bin\Debug\MesAdapter.pdb
+D:\lzy\NewSolution\MainProject\bin\Debug\RestSharp.xml
+D:\lzy\NewSolution\MainProject\bin\Debug\OTD.MI.X5.dll
+D:\lzy\NewSolution\MainProject\bin\Debug\OTD.MI.X5Entity.dll

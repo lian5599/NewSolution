@@ -1,0 +1,63 @@
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.exe.config
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.exe
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.pdb
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Communication.dll
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Helper.dll
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\log4net.dll
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Newtonsoft.Json.dll
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Communication.pdb
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Helper.pdb
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\log4net.xml
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Newtonsoft.Json.xml
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csprojAssemblyReference.cache
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.Form1.resources
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.Properties.Resources.resources
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.GenerateResource.cache
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.CoreCompileInputs.cache
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.CopyComplete
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.exe
+D:\new project\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.pdb
+D:\new project\NewSolution\PanasonicPlcVirtualServer\bin\Debug\log4net.config
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.exe.config
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.exe
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.pdb
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Communication.dll
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Helper.dll
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\log4net.dll
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Communication.pdb
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Helper.pdb
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\log4net.xml
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csprojAssemblyReference.cache
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.Form1.resources
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.Properties.Resources.resources
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.GenerateResource.cache
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.CopyComplete
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.exe
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.pdb
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\log4net.config
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.exe.config
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.exe
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\PanasonicPlcVirtualServer.pdb
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\Communication.dll
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\Helper.dll
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\Newtonsoft.Json.dll
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\log4net.dll
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\Communication.pdb
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\Helper.pdb
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\Newtonsoft.Json.xml
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\bin\Debug\log4net.xml
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csprojAssemblyReference.cache
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.Form1.resources
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.Properties.Resources.resources
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.GenerateResource.cache
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.csproj.CopyComplete
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.exe
+D:\lzy\NewSolution_LangFang\PanasonicPlcVirtualServer\obj\Debug\PanasonicPlcVirtualServer.pdb
+D:\lzy\NewSolution\PanasonicPlcVirtualServer\bin\Debug\log4net.config

@@ -1,0 +1,27 @@
+D:\new project\HslCommunicationTst\ProcessInstance\obj\Debug\ProcessInstance.csproj.CoreCompileInputs.cache
+D:\new project\HslCommunicationTst\ProcessInstance\obj\Debug\ProcessInstance.csprojAssemblyReference.cache
+D:\new project\HslCommunicationTst\MesProject\bin\Debug\log4net.config
+D:\new project\HslCommunicationTst\MesProject\bin\Debug\ProcessInstance.dll
+D:\new project\HslCommunicationTst\MesProject\bin\Debug\ProcessInstance.pdb
+D:\new project\HslCommunicationTst\ProcessInstance\obj\Debug\ProcessInstance.csproj.CopyComplete
+D:\new project\HslCommunicationTst\ProcessInstance\obj\Debug\ProcessInstance.dll
+D:\new project\HslCommunicationTst\ProcessInstance\obj\Debug\ProcessInstance.pdb
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\log4net.config
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\ProcessInstance.dll
+D:\new project\HslCommunicationTst\MainProject\bin\Debug\ProcessInstance.pdb
+D:\new project\NewSolution\MainProject\bin\Debug\log4net.config
+D:\new project\NewSolution\MainProject\bin\Debug\ProcessInstance.dll
+D:\new project\NewSolution\MainProject\bin\Debug\ProcessInstance.pdb
+D:\new project\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.csprojAssemblyReference.cache
+D:\new project\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.csproj.CoreCompileInputs.cache
+D:\new project\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.csproj.CopyComplete
+D:\new project\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.dll
+D:\new project\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.pdb
+D:\lzy\NewSolution\MainProject\bin\Debug\log4net.config
+D:\lzy\NewSolution\MainProject\bin\Debug\ProcessInstance.dll
+D:\lzy\NewSolution\MainProject\bin\Debug\ProcessInstance.pdb
+D:\lzy\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.csprojAssemblyReference.cache
+D:\lzy\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.csproj.CoreCompileInputs.cache
+D:\lzy\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.csproj.CopyComplete
+D:\lzy\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.dll
+D:\lzy\NewSolution\ProcessInstance\obj\Debug\ProcessInstance.pdb

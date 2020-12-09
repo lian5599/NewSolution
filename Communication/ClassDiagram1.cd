@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Communication.Serial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAIQBAAEIAIAIAAAAQAAgAAAAAAECEAEQ=</HashCode>
+      <FileName>CommunicationBase\Serial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Communication.SocketClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIwBACEIAAAIAACAQIAgAAAAgAECAAEQ=</HashCode>
+      <FileName>CommunicationBase\SocketClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Communication.SocketServer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAJQBACEIAAAIAACAQAAkAAAAgAECAAEQ=</HashCode>
+      <FileName>CommunicationBase\SocketServer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Communication.CommunicationBase" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiACAIAAAIDEAABAAAAAAKIAAAAAAAIACiAgAACAAAQ=</HashCode>
+      <FileName>CommunicationBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communication.Plc.ConverterBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAQAAAEAIAAAAAAAAAAAgJgABAAIgIAAAA=</HashCode>
+      <FileName>Plc\ConverterBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Communication.Plc.MelsecMcNet&lt;T&gt;" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Plc\MelsecMcNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communication.Plc.Panasonic&lt;T&gt;" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Plc\Panasonic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communication.Plc.PanasonicPlcServer&lt;T&gt;" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAgAAgAAAAAQ=</HashCode>
+      <FileName>Plc\PanasonicPlcServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communication.Plc.PlcBase" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAACAAAAQAAAAAgAgAAAACACIUAAAAAREAEAAAA=</HashCode>
+      <FileName>Plc\PlcBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Communication.Scanner.M120&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Scanner\M120.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communication.Scanner.Manual&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Scanner\Manual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communication.Scanner.ScannerBase" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAFAAAAAAABCAA=</HashCode>
+      <FileName>Scanner\ScannerBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Communication.ICommunication" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIQBAAEAAAAIAAAAQAAgAAAAAAACAAAQ=</HashCode>
+      <FileName>CommunicationBase\ICommunication.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Communication.Plc.IConverter" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAIAAAAAAAAAAAgBgABAAIgIAAAA=</HashCode>
+      <FileName>Plc\IConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Communication.Plc.IPlc" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgAAAACACAUAAAAAREAEAAAA=</HashCode>
+      <FileName>Plc\IPlc.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Communication.Scanner.IScanner" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAABAAA=</HashCode>
+      <FileName>Scanner\IScanner.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Communication.Plc.DataFormat" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAIAAAAAAAAABAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Plc\ConverterBase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Communication.MessageRecievedEventHandler" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>CommunicationBase\ICommunication.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Communication.ConnectionChangedHandler" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommunicationBase\ICommunication.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Communication.WarnOccuredHandler" Collapsed="true">
+    <Position X="11.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommunicationBase\ICommunication.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Communication.ErrorOccuredHandler" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommunicationBase\ICommunication.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Communication.Scanner.SnRecievedEventHandler" Collapsed="true">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scanner\ScannerBase.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

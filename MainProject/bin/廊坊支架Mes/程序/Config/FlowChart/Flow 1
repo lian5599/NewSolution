@@ -1,0 +1,20 @@
+﻿<flowchart version="3" name="Flow 1" nextnodepos="30 30">
+  <node id="0" RightPort="9" BottomPort="10" LeftPort="11" kind="Start" text="开始" pos="212.359375 32.234375" />
+  <node id="1" TopPort="12" RightPort="13" BottomPort="14" LeftPort="15" kind="PlcRead" text="上传标志" pos="186.71875 98.234375" />
+  <node id="2" TopPort="16" RightPort="17" BottomPort="18" LeftPort="19" kind="Scan" text="扫码" pos="204.359375 248.234375" />
+  <node id="3" TopPort="20" RightPort="21" BottomPort="22" LeftPort="23" kind="PlcWrite" text="扫码NG" pos="348.9922 248.234375" />
+  <node id="4" TopPort="24" RightPort="25" BottomPort="26" LeftPort="27" kind="Mes" text="Mes连接" pos="198.148438 335.234375" />
+  <node id="5" TopPort="28" RightPort="29" BottomPort="30" LeftPort="31" kind="PlcWrite" text="上传NG" pos="353.9922 428.234375" />
+  <node id="6" TopPort="32" RightPort="33" BottomPort="34" LeftPort="35" kind="PlcWrite" text="上传OK" pos="194.574219 508.234375" />
+  <node id="7" TopPort="36" RightPort="37" BottomPort="38" LeftPort="39" kind="Mes" text="Mes过站" pos="198.148438 425.234375" />
+  <node id="8" TopPort="40" RightPort="41" BottomPort="42" LeftPort="43" kind="PlcRead" text="检测结果" pos="186.71875 168.234375" />
+  <link from="10" to="12" label="" />
+  <link from="17" to="23" label="N" />
+  <link from="38" to="32" label="" />
+  <link from="25" to="28" label="N" />
+  <link from="37" to="31" label="N" />
+  <link from="14" to="40" label="" />
+  <link from="42" to="16" label="" />
+  <link from="18" to="24" label="" />
+  <link from="26" to="36" label="" />
+</flowchart>

@@ -1,0 +1,121 @@
+2020-11-17 09:09:50.687,INFO,Mes连接成功  
+2020-11-17 09:12:33.460,ERROR,Mes连接失败,请检查参数是否设置正确  
+2020-11-17 09:13:14.312,INFO,Mes连接成功  
+2020-11-17 09:13:30.832,ERROR,Mes连接失败,请检查参数是否设置正确  
+2020-11-17 09:13:42.310,INFO,Mes连接成功  
+2020-11-17 09:21:24.501,INFO,扫码枪扫码成功=>条码:123XYZ  
+2020-11-17 09:21:28.283,ERROR,检查路由失败：参数不匹配 System.Exception: 参数不匹配
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution_LangFang\MainProject\FlowChart\Tool\MesTool.cs:行号 83
+ 
+2020-11-17 09:22:04.253,ERROR,Mes回复超时:4000  
+2020-11-17 09:22:04.543,DEBUG,Mes 回复：OK  
+2020-11-17 09:22:17.628,DEBUG,Mes 回复：OK  
+2020-11-17 09:22:18.702,ERROR,Mes回复超时:4000  
+2020-11-17 09:22:31.152,DEBUG,Mes 回复：OK  
+2020-11-17 09:22:41.710,DEBUG,Mes 回复：OK  
+2020-11-17 09:24:47.462,DEBUG,Mes 回复：OK  
+2020-11-17 09:25:12.064,DEBUG,Mes 回复：OK^123  
+2020-11-17 09:25:41.973,INFO,扫码枪扫码成功=>条码:123XYZ  
+2020-11-17 09:25:57.934,DEBUG,Mes 回复：OK^123  
+2020-11-17 09:25:57.935,INFO,检查路由成功  
+2020-11-17 09:26:03.970,DEBUG,Mes 回复：OK^123  
+2020-11-17 09:26:03.971,INFO,过站成功  
+2020-11-17 09:26:13.665,DEBUG,Mes 回复：NG^123  
+2020-11-17 09:26:13.666,ERROR,检查路由失败  
+2020-11-17 09:26:17.029,DEBUG,Mes 回复：NG^123  
+2020-11-17 09:26:17.033,ERROR,过站失败  
+2020-11-17 09:26:23.816,ERROR,Mes回复超时:4000  
+2020-11-17 09:26:26.902,DEBUG,Mes 回复：NG^123  
+2020-11-17 09:26:26.903,ERROR,过站失败  
+2020-11-17 09:27:53.703,INFO,扫码枪扫码成功=>条码:123XYZ  
+2020-11-17 09:27:58.313,DEBUG,Mes 回复：NG^123  
+2020-11-17 09:27:58.314,ERROR,检查路由NG  
+2020-11-17 09:28:05.360,DEBUG,Mes 回复：OK^123  
+2020-11-17 09:28:05.361,INFO,检查路由OK  
+2020-11-17 09:28:12.909,DEBUG,Mes 回复： O K^1 23
+  
+2020-11-17 09:28:12.910,INFO,检查路由OK  
+2020-11-17 09:28:20.737,DEBUG,Mes 回复： O K^1 23
+  
+2020-11-17 09:28:20.738,INFO,检查路由OK  
+2020-11-17 09:28:24.812,DEBUG,Mes 回复： O K^1 23
+  
+2020-11-17 09:28:24.814,INFO,过站OK  
+2020-11-17 10:14:25.827,INFO,PLC Read =>1:0;2:0;3:0;  
+2020-11-17 10:14:30.735,DEBUG,PLC Write UInt16 Address:1; Value:[1]  
+2020-11-17 10:14:31.506,INFO,PLC Read =>1:1;2:0;3:0;  
+2020-11-17 10:14:40.871,ERROR,机故上报失败：参数不匹配 System.Exception: 参数不匹配
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution_LangFang\MainProject\FlowChart\Tool\MesTool.cs:行号 83
+ 
+2020-11-17 10:15:27.030,ERROR,机故上报出错：?<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>服务</title>
+    <style>BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}</style>
+  </head>
+  <body>
+    <div id="content">
+      <p class="heading1">服务</p>
+      <p>未找到终结点。</p>
+    </div>
+  </body>
+</html>  
+2020-11-17 10:16:32.972,INFO,PLC Read =>1:1;2:0;3:0;  
+2020-11-17 10:16:59.333,ERROR,机故上报出错：?<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>服务</title>
+    <style>BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}</style>
+  </head>
+  <body>
+    <div id="content">
+      <p class="heading1">服务</p>
+      <p>未找到终结点。</p>
+    </div>
+  </body>
+</html>  
+2020-11-17 13:14:31.251,INFO,扫码枪扫码成功=>电池盖条码:123XYZ  
+2020-11-17 13:14:40.440,ERROR,Mes回复超时:4000  
+2020-11-17 13:14:55.772,ERROR,Mes回复超时:4000  
+2020-11-17 13:15:36.600,ERROR,Mes回复超时:4000  
+2020-11-17 13:18:02.175,INFO,扫码枪扫码成功=>电池盖条码:123XYZ  
+2020-11-17 13:18:10.695,DEBUG,Mes 回复： O K^1 23
+  
+2020-11-17 13:18:10.696,INFO,检查路由OK  
+2020-11-17 13:37:38.791,INFO,扫码枪扫码成功=>电池盖条码:123XYZ  
+2020-11-17 13:37:43.196,DEBUG,Mes 回复： O K^1 23
+  
+2020-11-17 13:37:43.198,INFO,检查路由OK  
+2020-11-17 14:20:39.384,INFO,PLC Read =>1:0;2:0;3:0;  
+2020-11-17 14:20:41.166,DEBUG,PLC Write UInt16 Address:1; Value:[1]  
+2020-11-17 14:20:42.845,INFO,PLC Read =>1:1;2:0;3:0;  
+2020-11-17 14:20:46.387,ERROR,无法连接到远程服务器 System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:7788
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 RestSharp.Http.WriteRequestBody(WebRequest webRequest)
+   在 RestSharp.Http.<PostPutInternal>b__180_0(HttpWebRequest r)
+   在 RestSharp.Http.ExecuteRequest(String httpMethod, Action`1 prepareRequest)
+   在 RestSharp.Http.PostPutInternal(String method)
+   在 RestSharp.Http.AsPost(String httpMethod)
+   在 RestSharp.RestClient.DoExecuteAsPost(IHttp http, String method)
+   在 RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+ 
+2020-11-17 14:20:46.393,ERROR,机故上报出错：无法连接到远程服务器  
+2020-11-17 14:20:50.047,ERROR,检查路由失败：参数"电池盖条码"不存在 System.Exception: 参数"电池盖条码"不存在
+   在 TKS.Manager.Flow.GetOutput(String key) 位置 D:\lzy\NewSolution_LangFang\MainProject\Manager\Flow.cs:行号 148
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution_LangFang\MainProject\FlowChart\Tool\MesTool.cs:行号 75
+ 
+2020-11-17 14:20:56.509,INFO,扫码枪扫码成功=>电池盖条码:123XYZ  
+2020-11-17 14:21:01.392,DEBUG,Mes 回复： O K^1 23
+  
+2020-11-17 14:21:01.394,INFO,检查路由OK  
+2020-11-17 14:21:43.821,ERROR,Mes回复超时:4000  
+2020-11-17 14:22:16.193,ERROR,过站失败：参数"条码"不存在 System.Exception: 参数"条码"不存在
+   在 TKS.Manager.Flow.GetOutput(String key) 位置 D:\lzy\NewSolution_LangFang\MainProject\Manager\Flow.cs:行号 148
+   在 TKS.FlowChart.Tool.MesTool.Action() 位置 D:\lzy\NewSolution_LangFang\MainProject\FlowChart\Tool\MesTool.cs:行号 75
+ 

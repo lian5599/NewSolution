@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="20" PostSharpLinesOfCode="0" EnhancedTypesCount="2" SchemaVersion="1" PostSharpVersion="6.7.10.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[ConsoleApp1]ConsoleApp1.OnMethodBoundaryAttribute1" Id="e6d251a4c84a2f7e">
+      <Target />
+    </Instance>
+  </Class>
+  <Class Class="#2">
+    <Instance Declaration="#3=M:[ConsoleApp1]ConsoleApp1.Program::Main(System.String[])" Id="e6d251a46b4c6ec3">
+      <Target LinesAvoided="8">
+        <JoinPoint Description="#4=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#5=M:[ConsoleApp1]ConsoleApp1.OnMethodBoundaryAttribute1::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#6=2" Description="#7=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#8=M:[ConsoleApp1]ConsoleApp1.OnMethodBoundaryAttribute1::OnSuccess(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#6" Description="#7" />
+  <Annotation Target="#9=M:[ConsoleApp1]ConsoleApp1.OnMethodBoundaryAttribute1::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#6" Description="#7" />
+  <Annotation Target="#10=M:[ConsoleApp1]ConsoleApp1.OnMethodBoundaryAttribute1::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#6" Description="#7" />
+</Symbols>
